@@ -1,0 +1,2 @@
+beginner_tutorial:race
+-DCATKIN_DEVEL_PREFIX=/home/yipu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yipu/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/yipu/catkin_ws/install
+
+Name: beginner_tutorial
+Description: Description of beginner_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yipu/catkin_ws/install/lib 
+Requires: 

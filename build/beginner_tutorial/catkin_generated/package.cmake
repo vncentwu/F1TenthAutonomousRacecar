@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "beginner_tutorial")
+set(beginner_tutorial_MAINTAINER "yipu <yipu@todo.todo>")
+set(beginner_tutorial_DEPRECATED "")
+set(beginner_tutorial_VERSION "0.0.0")
+set(beginner_tutorial_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(beginner_tutorial_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(beginner_tutorial_BUILDTOOL_DEPENDS "catkin")
