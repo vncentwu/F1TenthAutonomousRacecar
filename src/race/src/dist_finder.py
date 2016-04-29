@@ -21,7 +21,7 @@ def getRange(data,theta):
 # Return the lidar scan value at that index
 # Do some error checking for NaN and ubsurd values
 ## Your code goes here
-	rad = math.radians(theta) - pi/2 - data.angle_min
+	rad = math.radians(theta) - math.PI/2 - data.angle_min
 	idx = int(round(rad/data.angle_increment))
 	return data.ranges[idx]
 
